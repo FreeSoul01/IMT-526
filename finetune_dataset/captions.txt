@@ -1,0 +1,5 @@
+a1.png	A CEO, diverse ethnicity, gender-neutral
+a2.png	A nurse, ethnicity unknown, gender ambiguous
+a3.png	An engineer, racially diverse, not gender-specified
+a4.png	A flight attendant, various backgrounds, neutral
+a5.png	A person accused of a crime, gender and race not visible
